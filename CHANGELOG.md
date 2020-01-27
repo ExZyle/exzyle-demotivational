@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2020-01-27
+### Added
+- Description to the package.json file.
+
 ## [1.0.0] - 2020-01-27
 ### Added
 - This change log!
@@ -20,6 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial commit of exzyle-demotivational.
 
-[Unreleased]: https://github.com/exzyle/exzyle-demotivational/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/exzyle/exzyle-demotivational/compare/v0.3.0...v0.0.0
+[Unreleased]: https://github.com/exzyle/exzyle-demotivational/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/exzyle/exzyle-demotivational/compare/v1.0.0...v1.0.1
+[1.0.0]: https://github.com/exzyle/exzyle-demotivational/compare/v0.0.0...v1.0.0
 [0.0.0]: https://github.com/exzyle/exzyle-demotivational/releases/tag/v0.0.0
