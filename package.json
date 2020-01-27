@@ -1,6 +1,6 @@
 {
   "name": "exzyle-demotivational",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
@@ -14,13 +14,13 @@
     "email": "exzyle@protonmail.com",
     "url": "https://twitter.com/ExzyleFreedom"
   },
-  "homepage": "https://github.com/ExZyle",
+  "homepage": "https://exzyle.github.io/exzyle-demotivational/",
   "bugs": {
-    "url": "https://github.com/ExZyle/exzyle-demotivation/issues"
+    "url": "https://github.com/ExZyle/exzyle-demotivational/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ExZyle/exzyle-demotivation.git"
+    "url": "https://github.com/ExZyle/exzyle-demotivational.git"
   },
   "license": "GPL-3.0-only",
   "keywords": [ "error messages", "nihilistic", "for fun" ],
