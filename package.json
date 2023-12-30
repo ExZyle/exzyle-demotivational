@@ -26,13 +26,13 @@
   "keywords": [ "error messages", "nihilistic", "for fun" ],
   "scripts": {
     "test": "jest",
-    "check": "gts check",
+    "lint": "gts lint",
     "clean": "gts clean",
-    "compile": "tsc -p .",
+    "compile": "tsc",
     "fix": "gts fix",
     "prepare": "npm run compile",
     "pretest": "npm run compile",
-    "posttest": "npm run check",
+    "posttest": "npm run lint",
     "docs": "typedoc"
   },
   "devDependencies": {
