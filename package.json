@@ -1,6 +1,6 @@
 {
   "name": "exzyle-demotivational",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Demotivational messages. Great for adding flavour to your error messages 😏",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
